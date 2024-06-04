@@ -1,0 +1,15 @@
+C:\Users\Sam\Desktop\Nova pasta\ProjetoFinal\ConsoleApp1\bin\Debug\net6.0\ProjetoCalculadora.exe
+C:\Users\Sam\Desktop\Nova pasta\ProjetoFinal\ConsoleApp1\bin\Debug\net6.0\ProjetoCalculadora.deps.json
+C:\Users\Sam\Desktop\Nova pasta\ProjetoFinal\ConsoleApp1\bin\Debug\net6.0\ProjetoCalculadora.runtimeconfig.json
+C:\Users\Sam\Desktop\Nova pasta\ProjetoFinal\ConsoleApp1\bin\Debug\net6.0\ProjetoCalculadora.dll
+C:\Users\Sam\Desktop\Nova pasta\ProjetoFinal\ConsoleApp1\bin\Debug\net6.0\ProjetoCalculadora.pdb
+C:\Users\Sam\Desktop\Nova pasta\ProjetoFinal\ConsoleApp1\obj\Debug\net6.0\ProjetoCalculadora.csproj.AssemblyReference.cache
+C:\Users\Sam\Desktop\Nova pasta\ProjetoFinal\ConsoleApp1\obj\Debug\net6.0\ProjetoCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Desktop\Nova pasta\ProjetoFinal\ConsoleApp1\obj\Debug\net6.0\ProjetoCalculadora.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\Nova pasta\ProjetoFinal\ConsoleApp1\obj\Debug\net6.0\ProjetoCalculadora.AssemblyInfo.cs
+C:\Users\Sam\Desktop\Nova pasta\ProjetoFinal\ConsoleApp1\obj\Debug\net6.0\ProjetoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\Nova pasta\ProjetoFinal\ConsoleApp1\obj\Debug\net6.0\ProjetoCalculadora.dll
+C:\Users\Sam\Desktop\Nova pasta\ProjetoFinal\ConsoleApp1\obj\Debug\net6.0\refint\ProjetoCalculadora.dll
+C:\Users\Sam\Desktop\Nova pasta\ProjetoFinal\ConsoleApp1\obj\Debug\net6.0\ProjetoCalculadora.pdb
+C:\Users\Sam\Desktop\Nova pasta\ProjetoFinal\ConsoleApp1\obj\Debug\net6.0\ProjetoCalculadora.genruntimeconfig.cache
+C:\Users\Sam\Desktop\Nova pasta\ProjetoFinal\ConsoleApp1\obj\Debug\net6.0\ref\ProjetoCalculadora.dll
